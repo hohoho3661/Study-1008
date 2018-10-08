@@ -1,0 +1,174 @@
+﻿  AlphaRenderTest.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Animation.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  AnimationTest.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Backbuffer.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Button.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\button.cpp(20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\button.cpp(21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Camera.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CameraTest.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CollisionFunction.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Effect.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EffectManager.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EffectTest.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Enemy.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FrameRenderTest.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameNode.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Image.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.cpp(318): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.cpp(317): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.cpp(334): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.cpp(333): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.cpp(561): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.cpp(570): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.cpp(578): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ImageCropTest.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ImageManager.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InGameScene.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyManager.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LoadingScene.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\loadingscene.cpp(70): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  MainGame.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.h(26): warning C4099: 'Player': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.h(25): note: 'Player' 선언을 참조하십시오.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\cameratest.h(3): warning C4099: 'Player': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.h(26): note: 'Player' 선언을 참조하십시오.
+  Monster.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\monster.cpp(85): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PixelCollisionTest.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\pixelcollisiontest.cpp(24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\pixelcollisiontest.cpp(27): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\pixelcollisiontest.cpp(44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\pixelcollisiontest.cpp(46): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\pixelcollisiontest.cpp(49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\pixelcollisiontest.cpp(54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\pixelcollisiontest.cpp(58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\pixelcollisiontest.cpp(66): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\pixelcollisiontest.cpp(84): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\pixelcollisiontest.cpp(88): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\pixelcollisiontest.cpp(96): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ProgressBar.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\progressbar.cpp(21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\progressbar.cpp(22): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\progressbar.cpp(24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\progressbar.cpp(43): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\progressbar.cpp(66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\progressbar.cpp(80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RenderTest.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneManager.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SoundManager.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SpaceShip.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\spaceship.cpp(23): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\spaceship.cpp(24): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\spaceship.cpp(33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\spaceship.cpp(49): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\spaceship.cpp(53): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\spaceship.cpp(57): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\spaceship.cpp(61): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StalkerTest.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\stalkertest.cpp(17): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\stalkertest.cpp(23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\stalkertest.cpp(26): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\stalkertest.cpp(31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\stalkertest.cpp(70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\stalkertest.cpp(75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\stalkertest.cpp(80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\stalkertest.cpp(81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\stalkertest.cpp(82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StartScene.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TimeManager.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Timer.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TrigonometricTest.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.cpp(18): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.cpp(44): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.cpp(73): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.cpp(74): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.cpp(132): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.cpp(131): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.cpp(136): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.cpp(137): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.cpp(174): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.cpp(176): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.cpp(179): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\trigonometrictest.cpp(181): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Util.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\util.cpp(35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\util.cpp(38): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  소스.cpp
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\4시 프로그래밍 lth\study 1008 월\gamelooppattern\image.h(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  GameLoopPattern.vcxproj -> C:\4시 프로그래밍 LTH\Study 1008 월\Debug\GameLoopPattern.exe
